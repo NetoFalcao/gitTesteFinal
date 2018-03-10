@@ -12,4 +12,6 @@ public class jesusPorFaFunfa {
 	for (int i=0; i < 6; i++){
 		System.out.println(i);
 	}
+	
+	// aeeeeeeee agora funfo esse carai
 }}
